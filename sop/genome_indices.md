@@ -18,7 +18,7 @@ Example file tree
     - gff
     - star_1.2.8
       index files      
-    - star_2.8.0
+    - star_2.8.0_gtf  
       index files
   - GRCh38.p14_GCA_000001805.02
     - fa
